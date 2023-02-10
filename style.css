@@ -1,0 +1,35 @@
+#navegacao-topo {
+    display: flex;
+    justify-content: flex-end;
+}
+
+#navegacao-topo p {
+margin: 10px;
+color: white;
+}
+
+body {
+background-image: url("https://img.wallpapic-br.com/i1769-323-937/thumb/natureza-reflexao-larix-lyalliisubalpine-larch-paisagem-de-outono-imagem-de-fundo.jpg");
+background-repeat: no-repeat;
+background-size: 1900px 1100px;
+}
+
+.navegacao-meio {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo {
+    width: 300px;
+}
+
+.pesquisa {
+    width: 600px;
+    height: 50px;
+    background-color: white;
+    border-radius: 50px;
+    margin: 30px
+}
