@@ -32,14 +32,21 @@ Desafio-Google/
 
 ## 👀 Preview
 
-Para visualizar, basta clonar o repositório e abrir o `index.html` no navegador:
+![Preview do projeto](./preview.png)
 
+## 🚀 Como visualizar
+
+**Opção 1 — Download direto (mais simples)**
+1. Clique no botão verde "Code" → "Download ZIP"
+2. Extraia o arquivo em qualquer pasta
+3. Dê duplo clique no `index.html` — ele abre no navegador
+
+**Opção 2 — Via Git**
 ```bash
 git clone https://github.com/izaamc/Desafio-Google.git
 cd Desafio-Google
 ```
-
-Depois é só abrir o arquivo `index.html` diretamente no navegador.
+Depois, abra o arquivo `index.html` no navegador.
 
 ---
 
